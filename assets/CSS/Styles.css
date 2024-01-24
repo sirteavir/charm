@@ -1,0 +1,29 @@
+table{
+    width: 100%;
+    font-family: Forte;
+    border-collapse: collapse;
+    background-color: bisque;
+
+
+}
+td,th{
+    border: 2px solid saddlebrown;
+    padding: 10px;
+}
+th{
+    color: crimson;
+}
+td{
+    color: darkgoldenrod;
+}
+h2{
+    color: indigo;
+    font-family: Forte;
+    text-align: center;
+}
+body{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/travel.jpeg");
+}
